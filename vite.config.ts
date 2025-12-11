@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react';
 
 
 export default defineConfig({
-  base: "/hailey-s-birthday/",   // ⭐ 关键
+  base: "/hailey-s-birthday-v2/",   // ⭐ 关键
   plugins: [react()],
 });
