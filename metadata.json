@@ -1,0 +1,8 @@
+{
+  "name": "Merry Christmas WebGL",
+  "description": "A high-end 3D interactive Christmas and Birthday experience using Three.js, React, and MediaPipe.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
